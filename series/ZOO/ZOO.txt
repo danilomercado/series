@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<TITLE>ZOO</TITLE>
+</HEAD>
+<BODY><center><i><b>ZOO</b></i></center>
+<BODY BGCOLOR="#81BEF7" TEXT="BLACK">
+<P>Zoo es una serie de televisión estadounidense basada en la novela del mismo nombre por James Patterson y Michael Ledwidge, que también es productor ejecutivo de la serie, protagonizada por James Wolk, Kristen Connolly, Nonso Anozie, Nora Arnezeder y Billy Burke como un grupo de profesionales que investigan la misteriosa pandemia de animales violentos que atacan contra los seres humanos en todo el mundo.
+La serie se estrenó el 30 de junio de 2015 
+<BR>
+<IMG SRC="http://spiceukonline.com/wp-content/uploads/2016/05/zoo-spoliertv.jpg" width="305px" height="206px" ALT="Serie ZOO">
+<A HREF="file:///C:/Users/a/Desktop/Inicio/series.html"><IMG SRC="https://losnegociosdemipadre.com/imagenes/nosotros/imagen1/inicio1472.png" ALT="Volver a inicio"></A>
+</P>
+</BODY>
+</HTML>
+

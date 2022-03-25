@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE>SERIES</TITLE>
+</HEAD>
+<BODY><center><i><b>SERIE</b></i></center>
+<BODY BGCOLOR="#81BEF7" TEXT="BLACK">
+<P>Una serie de televisi�n es una obra audiovisual que se difunde en emisiones televisuales, manteniendo cada una de ellas una unidad argumental en s� misma y con continuidad, al menos tem�tica, entre los diferentes episodios que la integran. Las series televisivas pueden emitirse por temporadas o conjuntos de cap�tulos que pueden presentar o no una tem�tica propia y paralela al argumento general de la serie. Aunque el t�rmino se emplea popularmente para designar a la ficci�n seriada, otros g�neros son susceptibles de ofrecerse en serie, como el documental. No debe ser confundida con la pel�cula
+<BR>
+<P><center><b>PARA VER M�S INFORMACI�N HAGA CLICK SOBRE LA IMAGEN</b></center>
+<BR>
+<A HREF="file:///C:/Users/a/Desktop/STRANGER%20THINGS/STRANGER%20THINGS.HTML"><IMG SRC="https://resizing.flixster.com/_foiUs1BFudPPbbcgJPCjTMjhRk=/206x305/v1.dDsyNTc1NDk7ajsxNzUwNzsxMjAwOzEzNDI7MjAxMw"></A>
+<A HREF="file:///C:/Users/a/Desktop/SUPERNATURAL/SUPERNATURAL.HTML"><IMG SRC="https://www.justwatch.com/images/poster/498684/s592" width="206px" height="305px"></A>
+<A HREF="file:///C:/Users/a/Desktop/THE%20WALKING%20DEAD/THE%20WALKING%20DEAD.HTML"><IMG SRC="https://vignette.wikia.nocookie.net/thewalkingdead/images/0/0e/The-walking-dead-season-8-key-art-rick-lincoln-negan-dean-morgan-400x600.jpg/revision/latest/scale-to-width-down/333?cb=20170923193834&path-prefix=es" width="206px" height="305px"></A>
+<A HREF="file:///C:/Users/a/Desktop/ZOO/ZOO.HTML"><IMG SRC="https://i.pinimg.com/736x/a3/d0/cc/a3d0cc737fd08d627bdc5b7622fb1c7b--zoo-animals-zoo-serie.jpg" width="206px" height="305px"></A>
+</P>
+</BODY>
+</HTML>
